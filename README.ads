@@ -17,13 +17,9 @@ ADS:
   make the "200 items" something larger if you need more
   (so it's all on one page)
 
+Their  custom format is explained here:
+http://adsabs.harvard.edu/abs_doc/help_pages/customformat.html
 
-  Use Custom Format
-ADS has a custom format specifier for the UMD references
-    %A. %Y, "%T", %J, %V, %p-%P. [%c cit.]
-but after this you'll still need to boldface the name,
-and boldface + italics the journal name
-and inspect well!
 "The sole exception is when the work is a product of
  a large group. Candidates should designate the identity of the lead or
  corresponding author for joint authorships using * or placing that name
@@ -35,12 +31,6 @@ and inspect well!
 
     c   \  (la)tex
 
-
- %g. %Y, "%T", %J, %V, %p-%P. [%c cit.]
-
-%\({\bf )V\(}, )
-
-%\3.3g. %Y, "%\T", %\J, %\({\\bf )V\(}, ), %p-%P. [%c cit.]
 
 
 
