@@ -59,21 +59,14 @@ SEND QUERY
 then select "retrieve all records"
 return "custom format"
 sort by {"date (oldest first)}      -- if thatis what you want, and I recommend this one for easier use of reference numbers [13,21] in the PS
-custom format:       \\item %\5.1L. %Y, "%\T", %\J, %\({\\bf )V\(} ), %p-%P. [{\\bf %c cit.}] %% %W
+custom format:       %% %zn %W \n \\item \n %\5.1L %\Y, ``%\T'', %\J, %\({\\bf )V\(} ), %\p-%\P. [{\\bf %c cit.}] 
 email to:    teuben@gmail.com
 
-
-%% %zn %W \n \\item \n %\5.1L. %\Y, "%\T", %\J, %\({\\bf )V\(} ), %\p-%\P. [{\\bf %c cit.}] 
 
  
 still needed a few manual edits:
 
 
-# ->   \#   (solved)
-\amp   \&    (solved)
-\ap    $\sim$  (solved)
-sometimes the "%% %W" gets a line break between them, need to fix that or the %W is in the latex
-  (presumably due to email, instead of a file)
 <NUMPAGES> sometimes is used, remove them, use the pp. notation
 
 Some additional cleanup will always be needed. I've found some araXiv entry that had also a paper entry.
@@ -83,3 +76,5 @@ all the \items's go between
 
 \begin{enumerate}[resume,label=\textbf{\arabic*}.]
 \end{enumerate}
+
+I decided to keep the books without numbering (historic), so those are itemize , instead of enumerate
