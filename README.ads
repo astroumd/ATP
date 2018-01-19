@@ -1,4 +1,9 @@
-https://pdc-svpaap1.umd.edu/policies/apt_forms.html
+-*-  Text -*-
+See https://pdc-svpaap1.umd.edu/policies/apt_forms.html
+for the CVTemplate.docx.
+
+I had issues with this, perhaps LibreOffice,perhaps my inability
+to work with WYSIWYG programs.
 
 The docs template should also give an example how they expect
 the indentation to wokr, and the UID and name is confiusing.
@@ -16,6 +21,7 @@ ADS:
   you can fill in your name in the "Authors"
   make the "200 items" something larger if you need more
   (so it's all on one page)
+  if it's not unique,  
 
 Their  custom format is explained here:
 http://adsabs.harvard.edu/abs_doc/help_pages/customformat.html
@@ -48,7 +54,7 @@ SEND QUERY
 
 then select "retrieve all records"
 return "custom format"
-sort by {"date (oldest first)}      -- if thatis what you want, and I recommend this one for easier use of reference numbers [13,21] in the PS
+sort by {date (oldest first)}      -- if thatis what you want, and I recommend this one for easier use of reference numbers [13,21] in the PS
 custom format:       %% %zn %W \n \\item \n %\5.1L %\Y, ``%\T'', %\J, %\({\\bf )V\(} ), %\p-%\P. [{\\bf %c cit.}] 
 email to:    teuben@gmail.com
 
