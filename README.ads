@@ -103,3 +103,4 @@ the Astronomical Society of the Pacific,  {\bf 108} , 93- [{\bf 141 cit.}]
 The things missing are
 
 - bold-face your name {\bf Teuben, P~J.}
+- if more than 5 (in this case) authors, my name is not mentioned where in the list it occurs.
