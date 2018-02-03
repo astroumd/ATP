@@ -6,8 +6,8 @@ reply querying about this:
 
 *I believe the goal of this template is to let you know what kinds of
 information are desirable without being proscriptive about how to
-include them.  If you don't have any entries in a particular section,
-you can delete that section from the template. *
+include them.* *If you don't have any entries in a particular section,
+you can delete that section from the template.*
 
 *For the personal information section, you could just list information
 in any way that seems clear to you, such as:*
@@ -21,5 +21,5 @@ in any way that seems clear to you, such as:*
 
 *For the publications section, we recommend that you follow the practices
 of your discipline, especially with regard to citation style and the
-order of publications on the CV. *
+order of publications on the CV.*
 
