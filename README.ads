@@ -2,8 +2,8 @@
 See https://pdc-svpaap1.umd.edu/policies/apt_forms.html
 for the CVTemplate.docx.
 
-I had issues with this, perhaps LibreOffice, perhaps my inability
-to work with WYSIWYG programs:
+I had issues with this, perhaps MS-Word/LibreOffice, perhaps my
+inability to work with WYSIWYG programs:
 
 For example, in II I would try and add an item in II.A.3 and it
 doesn't get the indent, but the one before. The TAB key then doesn't
