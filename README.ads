@@ -58,20 +58,22 @@ Authors:   Teuben
 
 SEND QUERY
 
-then select "retrieve all records"
+then select "select all records"
 return "custom format"
 sort by {date (oldest first)}      -- if thatis what you want, and I recommend this one for easier use of reference numbers [13,21] in the PS
 Teuben format:       %% %zn %W \n \\item \n %\5.1L %\Y, ``%\T'', %\J, %\({\\bf )V\(} ), %\p-%\P. [{\\bf %c cit.}] 
 email to:    teuben@gmail.com
 
+then click "retrieve selected records"
+
 corrected Huard format:        %% %zn %W \n \\item \n %\25.1L {\\underline{%\Y}}, ``{\\emph{%\T}}'', {\\bf{%\J}}, %\V\, %\p-%\P. [{\\bf %c cit.}]
  
 still needed a few manual edits:
 - <NUMPAGES> sometimes is used, remove them, use the pp. notation
+  e.g.
+  A46-   becomes    A46, 14 pp.
 
-
-
-Some additional cleanup will always be needed. I've found some araXiv entry that had also a paper entry.
+Some additional cleanup will always be needed. I've found some arXiv entry that had also a paper entry.
 
 
 all the \items's go between
@@ -85,7 +87,7 @@ I decided to keep the books without numbering (historic), so those are itemize ,
 
 again, with custom format:  %% %zn %W \n \\item \n %\5.1L %\Y, ``%\T'', %\J, %\({\\bf )V\(} ), %\p-%\P. [{\\bf %c cit.}]
 
-you get something like this. I added a ordinal (the %zn) and artile type as a latex comment ahead of the entry.
+you get something like this. I added a ordinal (the %zn) and article type as a latex comment ahead of the entry.
 
 % 2 ARTICLE  
 \item  
@@ -102,5 +104,6 @@ the Astronomical Society of the Pacific,  {\bf 108} , 93- [{\bf 141 cit.}]
 
 The things missing are
 
-- bold-face your name {\bf Teuben, P~J.}
+- bold-face your name {\bf Teuben, P~J.} - Huard has a solution for this.
 - if more than 5 (in this case) authors, my name is not mentioned where in the list it occurs.
+  this is formally not according to UMD guidelines.
