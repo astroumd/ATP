@@ -1,0 +1,54 @@
+Astronomy and Computing, published by Elsevier, is a
+
+PeerJ Computer Science      
+
+The Astrophysical Journal Supplement Series   
+
+Journal of  Open Research Software (JOSS)
+
+Computer.  Published by IEEE
+
+The Astronomical Journal (AJ). Published by the American Astronomical
+Society, this journal publishes original astronomical research, with
+an emphasis on significant scientific results derived from
+observations. Publications in AJ include descriptions of data capture,
+surveys, analysis techniques, astronomical interpretation,
+instrumentation, and software and computing.
+
+
+The Astrophysical Journal (ApJ). Published by the American
+Astronomical Society, this journal is devoted to recent developments,
+discoveries, and theories in astronomy and astrophysics. ApJ
+publications constitute significant new research that is directly
+relevant to astrophysical applications, whether based on observational
+results or on theoretical insights or modeling. ApJ publishes articles
+that make use of extensive observational data if the data are subject
+to astrophysical interpretations.
+
+
+The Astrophysical Journal Letters (ApJL). Published by the American
+Astronomical Society, this journal is the premier journal for rapid
+publication of high-impact astronomical research. ApJL publishes brief
+reports on the most influential developments across astronomy and
+astrophysics. The journal specializes in articles that are timely,
+containing new discoveries and results that have a significant
+immediate impact on other researchers. Articles published in ApJL are
+self-contained, including context that is generally understandable by
+scientists who are not specialists in the particular field.
+
+
+Monthly Notices of the Royal Astronomical Society (MNRAS). Among the
+longest established and world's leading primary research journals in
+astronomical and astrophysics, this journal publishes the results of
+original research in positional and dynamical astronomy, astrophysics,
+radio astronomy, cosmology, space research, and the design of
+astronomical instruments.
+
+
+New Astronomy (NA). Published by Elsevier, this journal publishes
+articles in all fields of astronomy and astrophysics, with a
+particular focus on computational astronomy: mathematical and
+astronomy techniques and methodology, simulations, modeling and
+numerical results and computational techniques in instrumentation. It
+is a relatively new addition to the peer-review astronomical journals,
+and was established in 1996.
