@@ -23,3 +23,15 @@ in any way that seems clear to you, such as:*
 of your discipline, especially with regard to citation style and the
 order of publications on the CV.*
 
+
+# Things to do
+
+This is all in the AEP, but a summary
+
+1. Candidate writes CV, PS and give this to committee to critique. Final version
+   should be ready 2 months before deadline (Feb 10, for an Apr 10 deadline)
+1. Candidate provides N1 evaluator names , and commitee provides N2. E.g. for
+   2nd level PTK N1=2 and N2=2, plus at least one is external, and one is external
+   to the local working group
+1. Candidate sees the letter template
+1. Letters go to evaluators: CV, PS and promotion criteria
