@@ -1,13 +1,21 @@
-Astronomy and Computing, published by Elsevier, is a
 
-PeerJ Computer Science      
-
-The Astrophysical Journal Supplement Series   
-
-Journal of  Open Research Software (JOSS)
-
-Computer.  Published by IEEE
-
+Astronomy and Computing (A&C). Published by Elsevier, is a
+peer-reviewed journal that focuses on the broad area between
+astronomy, computer science, software development and information
+technology. The journal aims to publish the work of scientists and
+(software) engineers in all aspects of astronomical computing,
+including the collection, analysis, reduction, visualisation,
+preservation and dissemination of data, and the development of
+astronomical software and simulations. The journal covers applications
+of computer science techniques to astronomy, as well as novel
+applications of information technologies within astronomy.
+ 	 	 	
+The Astrophysical Journal Supplement Series (ApJS) is an open access
+journal publishing significant articles containing extensive data or
+calculations. ApJS also supports Special Issues, collections of
+thematically related papers published simultaneously in a single
+volume.
+ 
 The Astronomical Journal (AJ). Published by the American Astronomical
 Society, this journal publishes original astronomical research, with
 an emphasis on significant scientific results derived from
@@ -37,6 +45,31 @@ self-contained, including context that is generally understandable by
 scientists who are not specialists in the particular field.
 
 
+Computer is the flagship publication of the IEEE Computer Society. It
+publishes peer-reviewed articles written for and by computer
+researchers and practitioners representing the full spectrum of
+computing and information technology, from hardware to software and
+from emerging research to new applications. The aim is to provide more
+technical substance than trade magazines and more practical ideas than
+research journals. Computer seeks to deliver useful information for
+all computing professionals and students, including computer
+scientists, engineers, and practitioners of all levels.
+
+Journal of Open Research Software (JORS) features peer reviewed
+Software Metapapers describing research software with high reuse
+potential. We are working with a number of specialist and
+institutional repositories to ensure that the associated software is
+professionally archived, preserved, and is openly available. Equally
+importantly, the software and the papers will be citable, and reuse
+will be tracked.  JORS also publishes full-length research papers that
+cover different aspects of creating, maintaining and evaluating open
+source research software. The aim of the section is to promote the
+dissemination of best practice and experience related to the
+development and maintenance of reusable, sustainable research
+software.
+
+
+
 Monthly Notices of the Royal Astronomical Society (MNRAS). Among the
 longest established and world's leading primary research journals in
 astronomical and astrophysics, this journal publishes the results of
@@ -52,3 +85,10 @@ astronomy techniques and methodology, simulations, modeling and
 numerical results and computational techniques in instrumentation. It
 is a relatively new addition to the peer-review astronomical journals,
 and was established in 1996.
+
+PeerJ Computer Science is a multidisciplinary journal for computer
+science. High-quality, developmental peer review, coupled with
+industry-leading customer service and an award-winning submission
+system, means PeerJ Computer Science is the optimal choice to publish
+computer science research.
+
